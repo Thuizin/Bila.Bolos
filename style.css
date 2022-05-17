@@ -484,17 +484,17 @@ body{
   .texto1{
     position: absolute;
     cursor: default;
-    font-size: 13px;
+    font-size: 12px;
     left: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
   }
 
   .informações1{
     position: absolute;
     cursor: default;
     left: 1px;
-    font-size: 11px;
-    margin-bottom: 230px;  
+    font-size: 10px;
+    margin-bottom: 280px;  
   }
 
   .info-pipocas{
