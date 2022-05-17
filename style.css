@@ -483,16 +483,16 @@ body{
 
   .texto1{
     cursor: default;
-    font-size: 12px;
+    font-size: 13px;
     left: 60px;
-    margin-bottom: 10px;
+    margin-bottom: 60px;
   }
 
   .informações1{
     cursor: default;
     left: 1px;
-    font-size: 10px;
-    margin-bottom: 180px;  
+    font-size: 11px;
+    margin-bottom: 230px;  
   }
 
   .info-pipocas{
