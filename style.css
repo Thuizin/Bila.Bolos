@@ -481,16 +481,16 @@ body{
 
   .texto1{
     cursor: default;
-    font-size: 15px;
+    font-size: 12px;
     left: 60px;
-    margin-bottom: 90px;
+    margin-bottom: 10px;
   }
 
   .informações1{
     cursor: default;
     left: 1px;
-    font-size: 12px;
-    margin-bottom: 260px;  
+    font-size: 10px;
+    margin-bottom: 180px;  
   }
 
   .info-pipocas{
