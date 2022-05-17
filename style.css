@@ -488,7 +488,7 @@ body{
 
   .informações1{
     cursor: default;
-    left: auto;
+    left: 1px;
     font-size: 12px;
     margin-bottom: 260px;  
   }
