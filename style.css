@@ -147,6 +147,7 @@ nav {
 }
 
 .texto1{
+  text-align: center;
   cursor: default;
   position: absolute;
   left: 300px;
@@ -156,6 +157,7 @@ nav {
 }
 
 .informações1{
+  text-align: center;
   font-size: 25px;
   cursor: default;
   position: absolute;
