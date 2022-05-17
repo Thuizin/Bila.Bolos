@@ -150,7 +150,7 @@ nav {
   cursor: default;
   position: absolute;
   left: 300px;
-  bottom: 420px;
+  bottom: 460px;
   color: pink;
   font-size: 30px;
 }
@@ -160,8 +160,8 @@ nav {
   cursor: default;
   position: absolute;
   text-align: center;
-  left: center center;
-  bottom: 120px;
+  left: 100px;
+  bottom: 130px;
   color: rgb(224, 224, 224)
 }
 
