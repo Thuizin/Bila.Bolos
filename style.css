@@ -482,6 +482,7 @@ body{
   }
 
   .texto1{
+    position: absolute;
     cursor: default;
     font-size: 13px;
     left: 60px;
@@ -489,6 +490,7 @@ body{
   }
 
   .informações1{
+    position: absolute;
     cursor: default;
     left: 1px;
     font-size: 11px;
